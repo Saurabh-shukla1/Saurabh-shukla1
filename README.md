@@ -90,6 +90,11 @@
 
 ---
 
+## 📈 GitHub Stats
+
+  <a href="https://leetcode.com/Saurabhshukla1/" align="center">
+    <img src="https://leetcard.jacoblin.cool/Saurabhshukla1?theme=dark" width="400" />
+  </a>
 
 ## 📬 Connect With Me
 
