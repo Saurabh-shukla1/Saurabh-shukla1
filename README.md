@@ -38,7 +38,7 @@
 |--------------|-------------|
 | [DevAI](https://devai-s.vercel.app/) | Instantly make Nextjs application with the prompt |
 | [TechGuruLMS](https://github.com/Saurabh-shukla1/TechGuru-LMS) | A Learning management system with progress tracking |
-| [MERN Ecommerce](https://github.com/Saurabh-shukla1/MERN-Ecommerce) | A MERN Stack fullsatck project with admin panel |
+| [MERN Ecommerce](https://mern-ecommerce-1-9t95.onrender.com) | A MERN Stack fullsatck project with admin panel |
 
 ## 🚀 Featured Projects
 
