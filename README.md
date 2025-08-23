@@ -39,6 +39,8 @@
 | [DevAI](https://devai-s.vercel.app/) | Instantly make Nextjs application with the prompt |
 | [TechGuruLMS](https://github.com/Saurabh-shukla1/TechGuru-LMS) | A Learning management system with progress tracking |
 | [MERN Ecommerce](https://mern-ecommerce-1-9t95.onrender.com) | A MERN Stack fullsatck project with admin panel |
+| [Url Shortner](https://url-shortner-jn3y.onrender.com) | A node js and express backend + minimal EJS Bitly.com inspired URL Shortner |
+| [Bolgify](https://blogweb-n1bn.onrender.com) | Simple bolgging web App |
 
 ## 🚀 Featured Projects
 
