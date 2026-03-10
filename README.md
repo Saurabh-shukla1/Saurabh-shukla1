@@ -24,11 +24,7 @@
 
 ---
 
-## 🎯 2025 Goals
 
-- 🔄 Devops Fundamentals *(in progress)*   
-- 🚀 Transition into a  **DevOps Engineer**  
-- 🌱 Start contributing to **open-source**
 
 ---
 
